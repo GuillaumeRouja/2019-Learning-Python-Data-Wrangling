@@ -1,5 +1,4 @@
 # Data-analysis-with-Python
 
-Follow my progression on performing data analysis with Python
-The following notebooks are inspired by the IBM profesional data science course available online with Coursera
-I have made some little changes in some of the codes and comments where i found appropriate.
+Notebooks are inspired by the data wrangling section of the IBM profesional data science course.
+I have revisited part of the code and made some comments where i found necessary.
